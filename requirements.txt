@@ -1,0 +1,5 @@
+numpy>=1.14.1
+torch>=1.0.0
+torchvision>=0.2.1
+jupyter==1.0.0
+skipy>=1.5.4

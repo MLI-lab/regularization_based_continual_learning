@@ -29,11 +29,11 @@ All figures in the paper can be reproduced by running the respective notebooks a
 
 ## Citation
 ```
-@article{,
+@inproceedings{,
     author    = {Reinhard Heckel},
     title     = {Provable Continual Learning via Sketched Jacobian Approximations},
-    journal   = {},
-    year      = {2021}
+    booktitle   = {International Conference on Artificial Intelligence and Statistics (AISTATS)},
+    year      = {2022}
 }
 ```
 
